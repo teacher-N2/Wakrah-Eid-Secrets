@@ -1,0 +1,10 @@
+{
+  "name": "أسرار عيد الوكرة",
+  "short_name": "عيد الوكرة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7e6",
+  "theme_color": "#10293f",
+  "dir": "rtl",
+  "lang": "ar"
+}
